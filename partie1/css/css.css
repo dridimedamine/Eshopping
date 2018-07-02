@@ -1,0 +1,39 @@
+.body{
+  background-image: url(../images/arriere_plan.jpg);
+  margin: 0;
+  background-size: 100%;
+
+
+}
+@media screen and (max-width: 100%) {
+ 
+  img{
+      float:left;
+  }
+}
+#logo{
+  margin-right: 150px;
+  margin-left: 100px;
+  }
+ .form{
+   margin-left: 350px;
+    float:right;
+
+
+  }
+  li{
+    display: inline;
+    float: none ;
+  }
+  .navbar-brand{
+    color: forestgreen;
+  }
+ form{
+align-content:flex-end; 
+
+ }
+  .form{
+  
+  float: right;
+
+  }

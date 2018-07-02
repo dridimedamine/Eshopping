@@ -1,0 +1,64 @@
+.body{
+  /*background-image: url(../images/arriere_plan.jpg);
+  */
+  background-color:purple;
+  
+  margin: 0;
+  background-size: 100%;
+
+
+}
+.card1{
+margin-left: 100px;
+height: 500px;
+
+
+}
+.card2{
+margin-left:80px;
+height: 500px;
+}
+
+.d-block{
+ height: 550px;
+ width: 550px;
+ margin-left: 400px;
+}
+@media screen and (max-width: 100%) {
+  
+ 
+  .image1{
+      float:left;
+  }
+}
+section {
+  background-size: 100%;
+  background-image: url(../images/arriere_plan.jpg);
+height:800px ;
+}
+#logo{
+  margin-right: 150px;
+  margin-left: 10px;
+  }
+ .form{
+   margin-left: 130px;
+   
+
+
+
+  }
+  li{
+    display: inline-block;
+    float: none ;
+  }
+  .navbar-brand{
+    border: 1px;
+    color: black;
+  
+
+ }
+ .home{
+height: 100%;
+
+ }
+  
